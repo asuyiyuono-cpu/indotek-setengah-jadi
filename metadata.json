@@ -1,0 +1,6 @@
+{
+  "name": "Indotex ERP",
+  "description": "Sistem ERP Manufaktur Implan Kesehatan Medis terintegrasi dengan pemantauan WIP, analisis kritis stok implan, visualisasi penggunaan bahan, dan manajemen jadwal produksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
